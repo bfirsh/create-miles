@@ -9,7 +9,7 @@ const validateProjectName = require("validate-npm-package-name");
 
 // Lots of stuff in here is pinched from create-react-app
 
-PACKAGE = "miles-preview";
+PACKAGE = "miles-prototype";
 
 const argv = yargs.usage("$0 <name>").demandCommand(1).argv;
 create(argv._[0]);
