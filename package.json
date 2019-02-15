@@ -2,7 +2,7 @@
   "name": "create-miles",
   "version": "0.0.1",
   "description": "",
-  "bin": "index.js",
+  "bin": "create-miles.js",
   "author": "",
   "license": "Apache-2",
   "dependencies": {
